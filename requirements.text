@@ -1,9 +1,0 @@
-streamlit
-pandas
-numpy
-pandas_ta
-ccxt
-requests
-plotly
-cryptography
-streamlit-autorefresh
